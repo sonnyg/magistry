@@ -26,5 +26,8 @@
   "homepage": "https://github.com/sonnyg/magistry#readme",
   "devDependencies": {
     "electron": "~1.7.9"
+  },
+  "dependencies": {
+    "electron-window-state": "^4.1.1"
   }
 }
