@@ -4,6 +4,7 @@
   "description": "Tool to manage mtg card collections",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/sonnyg/magistry/issues"
   },
-  "homepage": "https://github.com/sonnyg/magistry#readme"
+  "homepage": "https://github.com/sonnyg/magistry#readme",
+  "devDependencies": {
+    "electron": "~1.7.9"
+  }
 }
