@@ -28,6 +28,7 @@
     "electron": "~1.7.9"
   },
   "dependencies": {
+    "electron-log": "^2.2.11",
     "electron-window-state": "^4.1.1"
   }
 }
