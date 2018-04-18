@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "electron .",
+    "debug": "electron --inspect=5858 .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,7 +26,7 @@
   },
   "homepage": "https://github.com/sonnyg/magistry#readme",
   "devDependencies": {
-    "electron": "~1.7.9"
+    "electron": "^1.8.4"
   },
   "dependencies": {
     "electron-log": "^2.2.11",
