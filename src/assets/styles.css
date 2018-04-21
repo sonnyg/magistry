@@ -1,0 +1,5 @@
+body {
+  background: linear-gradient(165deg, rgb(115, 163, 177), rgb(70, 110, 121)) fixed;
+  /* background-repeat: no-repeat; */
+  color: rgb(223, 221, 216)
+}
