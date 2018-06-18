@@ -26,10 +26,10 @@
   },
   "homepage": "https://github.com/sonnyg/magistry#readme",
   "devDependencies": {
-    "electron": "^1.8.4"
+    "electron": "^1.8.7"
   },
   "dependencies": {
-    "electron-log": "^2.2.14",
+    "electron-log": "^2.2.15",
     "electron-window-state": "^4.1.1"
   }
 }
