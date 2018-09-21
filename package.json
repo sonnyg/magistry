@@ -2,7 +2,7 @@
   "name": "magistry",
   "version": "0.1.0",
   "description": "Tool to manage mtg card collections",
-  "main": "main.js",
+  "main": "./src/main.js",
   "scripts": {
     "start": "electron .",
     "debug": "electron --inspect=5858 .",
